@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-08-24 16:25:23" name="LomoWideQR" targetId="a70a2d41d2a84d64bb2e2c406e285b71" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-07-20 17:43:34" name="Lomo" targetId="fbd205b01022456a9375faa7bd6499d3" version="2.0" />
+  </TargetSet>
+</QCARInfo>
